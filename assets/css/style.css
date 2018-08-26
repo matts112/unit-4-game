@@ -1,0 +1,108 @@
+body {
+	background-image: url(../images/star-wars-parallax-3.jpg);
+	height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color:black;
+    background-position: center;
+}
+
+h1 {
+	font-family: 'Vollkorn', serif;
+	margin-top: 10px;
+}
+
+.jumbotron h1 {
+	font-size: 50px; 
+}
+
+h2 {
+	font-family: 'Vollkorn', serif;
+	color: #e8f442;
+	text-shadow: 2px 2px 6px black;
+	font-size: 22px;
+	margin-top: 10px;
+}
+
+.jumboCustom {
+	background-color: black;
+	color: #e8f442;
+	margin-top: 10px;
+	margin-bottom: 0;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+
+.blockSection {
+	padding-left: 0;
+	padding-right: 0;
+	margin-bottom: 0px;
+}
+
+.yc {
+	cursor: pointer;
+}
+
+.panel-body {
+	padding: 0px;
+}
+
+.panel-heading {
+	padding: 0px;
+}
+
+.panel-footer {
+	padding: 0px;
+}
+
+.luke-ea {
+	display: none;
+}
+
+.han-ea {
+	display: none;
+}
+.darth-ea {
+	display: none;
+}
+.boba-ea {
+	display: none;
+}
+
+.luke-d {
+	display: none;
+}
+
+.han-d {
+	display: none;
+}
+.darth-d {
+	display: none;
+}
+.boba-d {
+	display: none;
+}
+
+.fight {
+	background-color:black;
+	border: 1px solid #666;
+	border-radius: 6px;
+	padding:10px;
+	vertical-align: middle;
+}
+
+
+
+.message {
+	font-family: 'Vollkorn', serif;
+	font-size: 20px;
+	color: red;
+	padding-left: 40px;
+	line-height: 115%;
+}
+
+
+.reset {
+	display: none;
+}
